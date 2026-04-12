@@ -1,5 +1,5 @@
 ---
-aliases:
+title: Robert's Rules of Order
 ---
 This is your new *vault*.
 
