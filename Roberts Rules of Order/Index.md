@@ -1,7 +1,10 @@
 ---
-title: Robert's Rules of Order
+title: Roberts Rules of Order Campaign
+tags: [home, index]
 ---
-This is your new *vault*.
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+# Roberts Rules of Order — Campaign Wiki
 
+Welcome to the Roberts Rules of Order D&D campaign notes.
+
+Use the explorer on the left or the search bar to navigate your notes.
