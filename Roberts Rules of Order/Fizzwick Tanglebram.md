@@ -3,7 +3,6 @@
 _Pathfinder 1e · Rise of the Runelords · GM: Robert Wilhelm_
 
 ---
-[[Fizzwick's Knowledge]]
 ## Identity
 
 | | | | |
