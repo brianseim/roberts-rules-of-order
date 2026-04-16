@@ -1,6 +1,8 @@
 ---
 title: Roberts Rules of Order Campaign
-tags: [home, index]
+tags:
+  - home
+  - index
 ---
 
 # Roberts Rules of Order — Campaign Wiki
@@ -8,3 +10,5 @@ tags: [home, index]
 Welcome to the Roberts Rules of Order D&D campaign notes.
 
 Use the explorer on the left or the search bar to navigate your notes.
+
+Brian's Character [[Fizzwick Tanglebram]] the gnomish seafaring fisherman songfilch
