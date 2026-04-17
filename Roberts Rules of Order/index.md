@@ -14,4 +14,4 @@ Welcome to the Roberts Rules of Order Pathfinder 1e Rise of the Runelords campai
 ## The Story
  - [[Session 2]]
 
-[[House Rules]]
+## [[House Rules]]
