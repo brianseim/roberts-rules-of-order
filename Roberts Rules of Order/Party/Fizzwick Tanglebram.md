@@ -1,6 +1,7 @@
 # Fitz — Fizzwick Tanglebram
 
-the gnomish seafaring fisherman songfilch
+The gnomish seafaring fisherman songfilch
+[[Fizzwick's Knowledge]]
 
 ---
 ## Identity

@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "35fba0dd8a823ff6",
+    "id": "2166a42b8acc87e5",
     "type": "split",
     "children": [
       {
-        "id": "75e97b785c233696",
+        "id": "432b817274970d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "409d3fda2017f8fc",
+            "id": "0505361fd7a0b383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People Known/Ameiko Kaijitsu.md",
+                "file": "House Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ameiko Kaijitsu"
-            }
-          },
-          {
-            "id": "5489f4b55abb59d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "60b2379959ab7637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People Known/Father Zantis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Father Zantis"
+              "title": "House Rules"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "790fc2ad14347c7a",
+    "id": "b5bc5c10ba11ac69",
     "type": "split",
     "children": [
       {
-        "id": "b41e4721e2e7eafe",
+        "id": "225c9793debafd67",
         "type": "tabs",
         "children": [
           {
-            "id": "b553eb2553471d1b",
+            "id": "6cc24ef723d79e91",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "b3fdc064ee377906",
+            "id": "088c92fbcf7865f5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "22ed3f7df992b0a0",
+            "id": "8615018be814d402",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9b78827a9d20a2d5",
+    "id": "33f5e4b162015d28",
     "type": "split",
     "children": [
       {
-        "id": "f177964d27bbbd5b",
+        "id": "e95044d8b9ef1f82",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed237da15cf6f74",
+            "id": "517fb45fde306b6b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "c0d16f0b53229971",
+            "id": "176fd585ce322fbd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "45acb44db7f90fdc",
+            "id": "5eeefa893c29448e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,36 +137,22 @@
             }
           },
           {
-            "id": "d528457b40f4c52b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "4d8baf0d129aa3af",
+            "id": "5f89c3f133a56551",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "d0476d4343c446dd",
+            "id": "71cf7522715d361c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -205,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -223,32 +180,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5489f4b55abb59d2",
+  "active": "0505361fd7a0b383",
   "lastOpenFiles": [
-    "People Known/Lonjiku Kaijitsu.md",
     "index.md",
+    "House Rules.md",
+    "Story/Session 2.md",
+    "Story",
     "People Known/Shalelu Andosana.md",
-    "Shalelu.md",
-    "Locations Known/Rusty Dragon.md",
-    "Locations Known/The Pillbug's Pantry.md",
-    "Locations Known/The Feathered Serpent.md",
-    "People Known/Aliver Pillbug Podiker.md",
-    "Locations Known/Sandpoint.md",
+    "Party/_Party.md",
+    "Party/Fizzwick Tanglebram.md",
+    "images/Shalelu.png",
+    "images/Note.png",
+    "images",
+    "Party/Fizzwick's Knowledge.md",
+    "Party/Ash'n Dragonfist.md",
+    "People Known/Ameiko Kaijitsu.md",
+    "Note.png",
+    "Shalelu.png",
     "Locations Known/Bone Yard.md",
     "Locations Known/Magnimar.md",
-    "Party/Party.md",
-    "People Known/Mayor Deverin.md",
-    "Party/Fizzwick Tanglebram.md",
-    "Party/Theïká Fármako.md",
-    "Party/Almarion.md",
-    "Party/Ash'n Dragonfist.md",
-    "Party/Ferg.md",
-    "Party",
-    "People Known/Ameiko Kaijitsu.md",
-    "Locations Known",
+    "Locations Known/The Pillbug's Pantry.md",
+    "Locations Known/The Feathered Serpent.md",
+    "Locations Known/Sandpoint.md",
+    "Locations Known/Rusty Dragon.md",
     "People Known/Sheriff Hemlock.md",
+    "People Known/Mayor Deverin.md",
+    "People Known/Lonjiku Kaijitsu.md",
     "People Known/Father Zantis.md",
     "People Known/Aldern Foxglove.md",
-    "People Known"
+    "People Known/Aliver Pillbug Podiker.md",
+    "Party/Ferg.md",
+    "Fizzwick Tanglebram.md",
+    "People Known",
+    "Party/Theïká Fármako.md",
+    "Party/Almarion.md",
+    "Party",
+    "Locations Known",
+    "_index_temp.md",
+    "Index.md.tmp.5.1775967947211",
+    "desktop.ini"
   ]
 }

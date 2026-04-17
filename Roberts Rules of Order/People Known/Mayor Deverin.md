@@ -1,0 +1,6 @@
+---
+aliases:
+  - Mayor
+---
+
+[[Sandpoint]] > 
