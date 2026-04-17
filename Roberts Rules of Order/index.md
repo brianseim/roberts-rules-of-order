@@ -9,7 +9,7 @@ tags:
 
 Welcome to the Roberts Rules of Order Pathfinder 1e Rise of the Runelords campaign notes.
 
-## [[_Party|The Party]]
+## [[_The Wild Rovers|The Party]]
 
 ## The Story
  - [[Session 2]]

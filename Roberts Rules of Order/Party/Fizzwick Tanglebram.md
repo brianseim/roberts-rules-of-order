@@ -2,7 +2,7 @@
 
 The gnomish seafaring fisherman songfilch
 [[Fizzwick's Knowledge]]
-
+Lifelong citizen of [[Sandpoint]] 
 ---
 ## Identity
 
