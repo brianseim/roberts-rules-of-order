@@ -1,0 +1,1 @@
+[[Ferg]] [[Elwyn forest]] outside of [[Goldshire]] lost parents, raised in [[stromwind city]].

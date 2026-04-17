@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "35fba0dd8a823ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e97b785c233696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409d3fda2017f8fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People Known/Ameiko Kaijitsu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ameiko Kaijitsu"
+            }
+          },
+          {
+            "id": "5489f4b55abb59d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "60b2379959ab7637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People Known/Father Zantis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Father Zantis"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "790fc2ad14347c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b41e4721e2e7eafe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b553eb2553471d1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3fdc064ee377906",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22ed3f7df992b0a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b78827a9d20a2d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f177964d27bbbd5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed237da15cf6f74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "c0d16f0b53229971",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "45acb44db7f90fdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d528457b40f4c52b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4d8baf0d129aa3af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "d0476d4343c446dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5489f4b55abb59d2",
+  "lastOpenFiles": [
+    "People Known/Lonjiku Kaijitsu.md",
+    "index.md",
+    "People Known/Shalelu Andosana.md",
+    "Shalelu.md",
+    "Locations Known/Rusty Dragon.md",
+    "Locations Known/The Pillbug's Pantry.md",
+    "Locations Known/The Feathered Serpent.md",
+    "People Known/Aliver Pillbug Podiker.md",
+    "Locations Known/Sandpoint.md",
+    "Locations Known/Bone Yard.md",
+    "Locations Known/Magnimar.md",
+    "Party/Party.md",
+    "People Known/Mayor Deverin.md",
+    "Party/Fizzwick Tanglebram.md",
+    "Party/Theïká Fármako.md",
+    "Party/Almarion.md",
+    "Party/Ash'n Dragonfist.md",
+    "Party/Ferg.md",
+    "Party",
+    "People Known/Ameiko Kaijitsu.md",
+    "Locations Known",
+    "People Known/Sheriff Hemlock.md",
+    "People Known/Father Zantis.md",
+    "People Known/Aldern Foxglove.md",
+    "People Known"
+  ]
+}

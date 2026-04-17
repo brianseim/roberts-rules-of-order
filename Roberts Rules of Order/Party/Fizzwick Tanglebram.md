@@ -1,6 +1,6 @@
 # Fitz — Fizzwick Tanglebram
 
-_Pathfinder 1e · Rise of the Runelords · GM: Robert Wilhelm_
+the gnomish seafaring fisherman songfilch
 
 ---
 ## Identity
