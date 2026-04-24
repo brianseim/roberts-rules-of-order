@@ -44,7 +44,7 @@ In the morning eating breakfast, a female halfling barmaid requests to speak wit
 
 She has found [[Ameiko Kaijitsu|Ameiko]] missing and hasn't slept in her bed. Today is the day she makes the "fancy" breakfast. Along with that news she reports "I found this note."
 
-![[Note.png]]
+![[Note 1.png]]
 
 The note was from [[Tsuto]] her illegitimate half-elf brother. She requests we go to the Glassworks as soon as possible to try and find [[Ameiko Kaijitsu|Ameiko]].
 

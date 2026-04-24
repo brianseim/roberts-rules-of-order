@@ -23,7 +23,9 @@ THEN
 
 He launches a monk attack on my new friend [[Ash'n Dragonfist|Ash'n]]. I tried to give him Jitterbugs while my friends try to dispatch this guy. I don't like the way this is going and shout, "Don't kill him, we probably want to capture him and ask him what's going on." 
 
-We knock him out. . . as no one listened to me. I end up healing him and we tie him up and search him. I tried to intimidate him but he was tougher than the kids in the market.
+We knock him out. . . as no one listened to me. I end up healing him and we tie him up and search him. I tried to intimidate him but he was tougher than the kids in the market. We find his journal:
+
+![[TsutosJournal.png]]
 
 In the side room, we find [[Ameiko Kaijitsu|Ameiko]]. She's tied, bound, and unconscious. I give her a healing potion. 
 
