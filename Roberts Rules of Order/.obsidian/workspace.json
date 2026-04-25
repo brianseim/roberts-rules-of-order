@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Fizzwick's Backstory.md",
+                "file": "Party/Ash'n Dragonfist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fizzwick's Backstory"
+              "title": "Ash'n Dragonfist"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "0505361fd7a0b383",
   "lastOpenFiles": [
+    "Party/Fizzwick's Backstory.md",
     "Party/Fizzwick's Knowledge.md",
     "Locations Known/Sandpoint Savories.md",
     "Story/Session 3.md",
@@ -216,7 +217,6 @@
     "Locations Known/The Feathered Serpent.md",
     "Locations Known/Sandpoint Theater.md",
     "Party/Fizzwick Tanglebram.md",
-    "Party/Fizzwick's Backstory.md",
     "People Known/Sheriff Hemlock.md",
     "People Known/Shalelu Andosana.md",
     "images/Glassworks.png",
