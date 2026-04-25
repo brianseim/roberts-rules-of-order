@@ -1,8 +1,9 @@
 # Fitz — Fizzwick Tanglebram
 
-The gnomish seafaring fisherman songfilch
-[[Fizzwick's Knowledge]]
-Lifelong citizen of [[Sandpoint]] 
+ - The gnomish seafaring fisherman songfilch
+ - [[Fizzwick's Knowledge]]
+ - [[Fizzwick's Backstory]]
+ - Lifelong citizen of [[Sandpoint]] 
 ---
 ## Identity
 

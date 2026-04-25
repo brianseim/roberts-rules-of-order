@@ -4,4 +4,4 @@ aliases:
 ---
 [[Sandpoint]] > [[Rusty Dragon]] Owner and proprietor
 
-Recently missing -- halfling barmaid found a note from [[Tsuto]]
+Recently missing -- halfling barmaid found a note from [[Tsuto Kaijitsu]]

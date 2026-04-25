@@ -17,7 +17,7 @@ heading downstairs...
 
 In the side room I pick a lock. . . it takes me a couple of minutes. 
 
-We find [[Ameiko Kaijitsu|Ameiko]]'s brother, [[Tsuto]]. He accuses his father for causing the issue at the festival. He informs me that he was trying to meet his sister here.
+We find [[Ameiko Kaijitsu|Ameiko]]'s brother, [[Tsuto Kaijitsu]]. He accuses his father for causing the issue at the festival. He informs me that he was trying to meet his sister here.
 
 THEN
 
@@ -29,7 +29,7 @@ We knock him out. . . as no one listened to me. I end up healing him and we tie 
 
 In the side room, we find [[Ameiko Kaijitsu|Ameiko]]. She's tied, bound, and unconscious. I give her a healing potion. 
 
-She wakes and expresses awareness of her [[father|Lonjiku Kaiiitsu]]'s death, and then asks about her brother. She heals herself more than once. We direct her to [[Tsuto]] and she inquires "What have you done!?" 
+She wakes and expresses awareness of her [[Lonjiku Kaijitsu|father]]'s death, and then asks about her brother. She heals herself more than once. We direct her to [[Tsuto Kaijitsu]] and she inquires "What have you done!?" 
 
 Looks like a large attack is going to be coming...but when? and how?
 

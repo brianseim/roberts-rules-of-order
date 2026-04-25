@@ -1,3 +1,6 @@
+---
+draft: true
+---
 [[Fizzwick Tanglebram]]
 
 Fizzwick Tanglebram was born on the road from Whistledown, delivered in the back of a wagon somewhere on the dusty path under 5 miles to a coast that would eventually become Sandpoint. His father Corvin had spent the better part of two decades as the only gnome in Whistledown who fished — not as a curiosity, not as an experiment, but as a vocation, a calling, a deeply held conviction that the best possible way to spend a life was on the water pulling things out of it. This was not a viewpoint the gnome community of Whistledown shared. Gnomes, as a people, regard water the way a sensible person regards a house fire — fascinating from a distance, worth studying, absolutely not somewhere you live. Corvin's neighbors had tried confusion, then argument, then social pressure, and finally a kind of exhausted collective resignation before the Tanglebrams packed a wagon, loaded it with fishing gear, and pointed it toward the Lost Coast. They arrived in Sandpoint's first year, one of the town's earliest settler families, and Corvin staked his claim on Gull Street with the quiet satisfaction of a gnome who had found his people — none of whom were gnomes.

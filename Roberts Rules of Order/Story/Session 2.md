@@ -46,6 +46,6 @@ She has found [[Ameiko Kaijitsu|Ameiko]] missing and hasn't slept in her bed. To
 
 ![[Note 1.png]]
 
-The note was from [[Tsuto]] her illegitimate half-elf brother. She requests we go to the Glassworks as soon as possible to try and find [[Ameiko Kaijitsu|Ameiko]].
+The note was from [[Tsuto Kaijitsu]] her illegitimate half-elf brother. She requests we go to the Glassworks as soon as possible to try and find [[Ameiko Kaijitsu|Ameiko]].
 
 dunn dunn dunn. . . 
