@@ -1,3 +1,7 @@
+---
+aliases:
+  - Fitz
+---
 # Fitz — Fizzwick Tanglebram
 
  - The gnomish seafaring fisherman songfilch

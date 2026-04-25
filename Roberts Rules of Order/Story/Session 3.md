@@ -34,4 +34,3 @@ She wakes and expresses awareness of her [[Lonjiku Kaijitsu|father]]'s death, an
 Looks like a large attack is going to be coming...but when? and how?
 
 Level 2 baby!
-
