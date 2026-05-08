@@ -1,0 +1,1 @@
+![[Quasit.png]]
