@@ -1,0 +1,20 @@
+We continue to explore the structure that the cave led us two. It is "decorated" with 6 pointed stars. Lots of inanimate skeletons and empty barred jail cells. I search through some rubble with bits of parchment but I can't even put together a word. The script might be abyssal.
+
+We find a vaulted room and hear an occasional low moan. . . from the wind? and they find a humanoid zombie in a pit. There is a hallway to the south. In the meantime, I continue to find a matching piece of parchment. [[Ferg]] calls out to me and I return to reality. Drops the paper and gives up and proceeds to follow the rest of the party.
+
+"Wow! That's a weird looking goblin. Three arms and a misshapen head." It lets out a loud shriek and spits out foul smelling acidic puke from its mouth. Moments like these, I'm glad they left me behind. Most of them avoid the pain from that goo then [[Almarion]]. I send a story powered piercing crescendo at the beast but can't seem to him him through all my new friends in my way. I'll let them take the spittle from that thing. The thing keeps healing and we splash him with acid...but it seems to be resistant. I finally dispatch him with a better focused piercing crescendo.
+
+The next room past this horrid oversized acid goblin has things hovering around the room. A floating wine bottle and book are not magical but a scroll and wand is. I sense the room is under the effect of a levitate spell. I charge in float around the room and gather up the items, obviously teh book first (wood carvings and pictures of frightening monsters--prayer book to [[Lamashtu]]). Placing everything in my pouches until i grab the wine bottle. Once I get to the door, I hand the wine to [[Almarion]] and crack open the book. . . too bummed I can't read it.
+
+I can't discern the magic items but [[Almarion]] identifies them as a shocking grasp wand and scroll of burning hands. We head back to the domed room and debate what to do with the pallet covered pits with the zombies within.
+
+Back by the entry way, we head down another passage way that gradually goes up with periodic steps to a door way. I FINALLY get to check it out and see what it is -- no traps or locks. Opening it up we find a circular room--everyone barges past me. . . in the middle of the floor is a pool and around it are skulls scattered about. THEN we notice the freaky flying skull green thingies. "OUCH, my ears" it shrieks out loud and I find myself paralyzed. [[Ferg]] manages to not be paralyzed and takes out the beast while I look on helplessly. The pool has a tinge of magic and I give [[Ferg]] a cup to drink.
+
+Past that room we find a column surrounded spiral stair case but find it blocked by debris and smell some fresh air but it looks like a bunch of work to get through it. We retrace our steps and find another skipped side passage that leads to a room with a pool of dirty water and an alter to [[Lamashtu]] the water in the basin seem mildly (invocation) magical. My friends find the double doors to the SE locked and call for my expertise! Yay!
+
+Before I get there the doors swing open. Look another [[sinspawn]]! it steps out and takes a swipe at [[Ferg]]. . . and only swipes--no contact. There's another smaller creature in there and it starts dripping blood into a pool! And shrieks out "How dare you intrude on the mothers sanctum?" Almarion draws his rapier and strikes the [[sinspawn]]. with a solid blow. I send a piercing crescendo and hit him firmly. It seems I can't quite get it just right to daze anyone. Someday I'll be better at this. 
+
+The room looks like a huge cathedral with a pool in the middle with stones. . . those are stones but skulls. At the far end is a raised platform with a railing. Up there is the little flying whining creature that shrieked out and bled into a triangular pool on the platform (causing a stirring and bubbling in the pool --gives me an eerie feeling). I wonder wh--a [[sinspawn]] rises up out of the pool. The little creature must be the [[quasit]] they told us about. It put more blood in the pool but it doesn't seem to be working the way it would like. Maybe? 
+
+I move ahead and try to 
+

@@ -1,0 +1,3 @@
+We continue to explore the structure that the cave led us two. It is "decorated" with 6 pointed stars. Lots of inanimate skeletons and empty barred jail cells. I search through some rubble with bits of parchment but I can't even put together a word. The script might be abyssal.
+
+We find a vaulted room and hear an occasional low moan. . . from the wind? and they find a humanoid zombie in a pit. There is 
