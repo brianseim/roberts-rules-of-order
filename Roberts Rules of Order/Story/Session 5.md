@@ -16,4 +16,6 @@ Before I get there the doors swing open. Look another [[sinspawn]]! it steps out
 
 The room looks like a huge cathedral with a pool in the middle with stones. . . those are stones but skulls. At the far end is a raised platform with a railing. Up there is the little flying whining creature that shrieked out and bled into a triangular pool on the platform (causing a stirring and bubbling in the pool --gives me an eerie feeling). I wonder why--a [[sinspawn]] rises up out of the pool. The little creature must be the [[quasit]] they told us about. It put more blood in the pool but it doesn't seem to be working the way it would like. Maybe? 
 
+![[Quasit.png]]
+
 I move ahead and try to use my piercing crescendo. [[Ferg]] goes in with a greataxe and misses. [[Ash'n Dragonfist|Ash'n]] makes a move to get closer. [[Theïká Fármako]] yells at it and scares me a bit. Another [[sinspawn]] ?arrives? and the [[quasit]] attempts to fly past my friends
