@@ -1,0 +1,1 @@
+Proprietor of the [[General Store]]
