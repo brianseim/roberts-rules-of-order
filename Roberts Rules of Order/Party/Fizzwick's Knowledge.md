@@ -1,5 +1,8 @@
 ---
 draft: true
+aliases:
+  - Fizz
+  - Fitz
 ---
 [[Fizzwick Tanglebram]]
 

@@ -1,1 +1,6 @@
+---
+tags:
+  - Sandpoint
+  - business
+---
 [[Sandpoint]]
