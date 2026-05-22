@@ -1,5 +1,5 @@
 ## Journal:
-Met [[Father Zantis]] who gave us some Healing potions.
+Met [[Father Zantus]] who gave us some Healing potions.
 He reported a disturbance in the local cemetery: [[Bone Yard]]
 He's headed to Meet with [[Sheriff Hemlock]] 
 
