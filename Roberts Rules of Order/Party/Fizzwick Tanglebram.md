@@ -11,16 +11,16 @@ aliases:
 ---
 ## Identity
 
-| | | | |
-|---|---|---|---|
-|**Full Name**|Fizzwick Tanglebram|**Goes By**|Fitz|
-|**Class**|Songfilch (Bard/Rogue)|**Level**|1|
-|**Race**|Gnome|**Alignment**|Chaotic Good|
-|**Size**|Small|**Age**|36 (≈ 16 human)|
-|**Height**|3'4"|**Weight**|39 lbs.|
-|**Hair**|Auburn|**Gender**|Male|
-|**Homeland**|Sandpoint, Varisia — Gull Street|**Deity**|Desna|
-|**Favored Class**|Songfilch (counts as Bard)|**FCB Choice**|+1 Bardic Performance round/level|
+|                   |                                                                                                                                             |                |                                   |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------------------------- |
+| **Full Name**     | Fizzwick Tanglebram                                                                                                                         | **Goes By**    | Fitz                              |
+| **Class**         | [Songfilch (Bard/Rogue)](https://www.d20pfsrd.com/extras/community-creations/cartmanbeck-s-lab/multiclass-archetypes/songfilch-bard-rogue/) | **Level**      | 1                                 |
+| **Race**          | Gnome                                                                                                                                       | **Alignment**  | Chaotic Good                      |
+| **Size**          | Small                                                                                                                                       | **Age**        | 36 (≈ 16 human)                   |
+| **Height**        | 3'4"                                                                                                                                        | **Weight**     | 39 lbs.                           |
+| **Hair**          | Auburn                                                                                                                                      | **Gender**     | Male                              |
+| **Homeland**      | Sandpoint, Varisia — Gull Street                                                                                                            | **Deity**      | Desna                             |
+| **Favored Class** | Songfilch (counts as Bard)                                                                                                                  | **FCB Choice** | +1 Bardic Performance round/level |
 
 ---
 

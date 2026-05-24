@@ -5,7 +5,7 @@ aliases:
   - Fitz
 ---
 [[Fizzwick Tanglebram]]
-
+Idea from Robert for carry ing capacity: https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords/
 1. ### Robert_the_DM _—_ 4/4/2026 6:15 PM
     
     Fizzwick(Brian): You don't wear armor? Bards can cast in light armor, Songfilch doesn't actually say that, and Songfilch can't use shields while bards can. I'm going to rule Songfilch can cast in light armor without spell failure, but not with shields. Mithril buckler or light shield at some point, if desired. Looks like Set Three again. Or Set Two, similar result. You have four Bard cantrips used at-will, can be very good for utility. Detect Magic is very strongly recommended. Also one more first-level spell, but that was likely juggled to keep Almarion alive. Did you take a favored class bonus at first level? Gnomes can take +1 round of bardic performance per day, which is solid. You mentioned traits on discord, a fairly absurd number of options. You get two more languages from intelligence. 12 pounds light load, yeesh. Note weapons and armor for small characters are half weight, so Rapier is 1 pound. Muleback cord might be an early investment. [https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords/](https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords/ "https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords/")
