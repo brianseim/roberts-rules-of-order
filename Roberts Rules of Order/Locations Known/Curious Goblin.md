@@ -4,3 +4,4 @@ tags:
   - business
 ---
 [[Sandpoint]]
+Proprietor [[Brodert Quink]]

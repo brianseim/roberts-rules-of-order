@@ -1,2 +1,2 @@
-Old male human, glasses, over 50, owns the book store
+Old male human, glasses, over 50, owns the book store [[Curious Goblin]]
 [[Sandpoint]]

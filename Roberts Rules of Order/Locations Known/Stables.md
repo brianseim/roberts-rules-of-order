@@ -1,0 +1,1 @@
+Have goblin ears posted up on the wall and suspended from the ceiling.

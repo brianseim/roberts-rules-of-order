@@ -1,0 +1,2 @@
+[[4707-09-27 FireDay, Rova the 27|yesterday]]
+We head out to the north to find [[Thistletop]] I begin to lead the party through the scrub brush and thistle. I find a hole in teh ground. . . It must be a tunnel. BUUUUT the guys wanna wipe out the goblin dogs nearby. . . Stupid move if you ask me. Who am I to say.

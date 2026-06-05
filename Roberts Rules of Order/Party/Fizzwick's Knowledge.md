@@ -92,7 +92,7 @@ Idea from Robert for carry ing capacity: https://www.d20pfsrd.com/magic-items/wo
     
 34. ### Robert_the_DM _—_ 4/8/2026 11:05 PM
     
-    The Pixie's Kitten, the most famous and most (only?) reputable brothel in Sandpoint, is run by Kaye Tesarani (female human rogue/sorcerer). She runs the place with class and pays and treats her girls and boys quite well. She employs three Shoanti bouncers (Shoanti human male barbarian) to keep it that way. The Scarnettis have tried various means to shut her down, but her wealth and influence (and paramour Sheriff Hemlock) have held that off for some time.
+    The Pixie's Kitten, 
     
 35. The Feathered Serpent, run by Vorvashali Voon (male human wizard/rogue) an exotic character who is gregarious and excited about every customer. His stock changes often, and dozens of contacts from Magnimar make this the best place to buy and sell magic items and adventuring tools of the trade.
     
