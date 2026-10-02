@@ -1,0 +1,1 @@
+Steward for [Lord Mayor of Magnimar]
