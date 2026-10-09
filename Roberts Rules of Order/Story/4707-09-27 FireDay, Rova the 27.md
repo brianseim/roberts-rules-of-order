@@ -1,3 +1,4 @@
+[[Story/index|Story of the Rise of the Runelords]]
 The town is planning a celebration for us for defending the city.
 
 {6/4/2026}

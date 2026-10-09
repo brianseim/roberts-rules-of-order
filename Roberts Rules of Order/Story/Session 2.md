@@ -1,3 +1,4 @@
+[[Story/index|Story of the Rise of the Runelords]]
 ## Journal:
 Met [[Father Zantus]] who gave us some Healing potions.
 He reported a disturbance in the local cemetery: [[Bone Yard]]

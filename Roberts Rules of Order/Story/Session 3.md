@@ -1,3 +1,5 @@
+[[Story/index|Story of the Rise of the Runelords]]
+
 Nathana the halfling sent us to the [[Glassworks]]. Some of the shops are closed some are opening.
 
 [[Curious Goblin]] - a shop we pass along the way

@@ -1,3 +1,5 @@
+[[Story/index|Story of the Rise of the Runelords]]
+
 5/21/2026
 
 The [[Quasit]] continues to summon minions out of the golden triangular fountain/pool. I continue to regale a story through the entire encounter, sending off 3 more piercing crescendos and finally [[Ash'n Dragonfist|Ash'n]] brings her down. [[Ferg]] rushes forward to put a stop to her healing up and causing us more issue. I find a strong essence of magic emanating from the pool she was summoning from. . . like I expected something different.

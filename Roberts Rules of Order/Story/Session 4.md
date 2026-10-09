@@ -1,3 +1,5 @@
+[[Story/index|Story of the Rise of the Runelords]]
+
 Coming out of the [[Glassworks]] we are met by the town guard and a bunch of my "friends". Somehow [[Ash'n Dragonfist|Ash'n]] completely vouches for us. . . don't know how he did that! Amazing. I've got to learn more about this guy. We related the story of the tunnel, death, and plans of an attack on [[Sandpoint]].
 
 [[Davron]] gets the diary from ___ and scans it. We end up at the town hall with [[Kendra Deverin|Kendra]], the mayor.

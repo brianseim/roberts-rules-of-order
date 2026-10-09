@@ -1,4 +1,5 @@
-(10/1/2026) We recovered a list of 20 names. . . One of the names on the list was the [Lord Mayor]. His assistant? is [Stevens]. He almost faints upon learning this.
+[[Story/index|Story of the Rise of the Runelords]]
+(10/1/2026) We recovered a list of 20 names. . . One of the names on the list was the [[Lord Mayor]]. His assistant? is [Stevens]. He almost faints upon learning this.
 
 Stevens opens up a conversation in private. . . sharing that the Lord Mayor's position requires such discretion and volunteers he may be able to answer our questions.
 
@@ -12,7 +13,7 @@ They want to keep track of us for information? curious... and to invite us to th
 
 I keep getting a feeling I'm being watched by the fireplace... No one else experiences this.
 
-Priest of Desna, requests escort back to Sandpoint. Renchen also 
+Priest of Desna, requests escort back to Sandpoint. [Renchen] also ?accompanies? us
 
 On our first day heading back [Shalelu] shows up and joins us.
 
