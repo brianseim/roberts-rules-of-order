@@ -149,12 +149,12 @@ Added: Bluff +1, Diplomacy +1, Disable Device +1, Knowledge (Arcana) 1, Knowledg
 - Bardic Performance: +1 FCB
 
 ### Feats
-- **Extra Performance** (level 4 feat) — second pick, +6 more BP rounds/day
-- *Robert approved swapping original Weapon Finesse pick for this*
+- **Extra Performance** (level 3 feat, retroactively placed here) — second pick, +6 more BP rounds/day
+- *Robert approved swapping Weapon Finesse for this. Originally noted as L4 but feat slots are at odd levels; Robert approved the swap at L4 so the feat is credited at L3.*
 - Weapon Finesse was taken then reversed — Fitz's primary attack is Piercing Crescendo (ranged touch using Dex to hit by default), not melee
 
 ### Ability Score Increase
-- Level 4 ASI — not confirmed in FGU XML. Likely applied to Charisma. Confirm.
+- Level 4 ASI — **Charisma** (base 20 → 21). Confirmed missed in FGU; applied retroactively alongside L8 ASI.
 
 ### Skills (8 new ranks, 32 total)
 Details partially reconstructed — see level 5 for confirmed state.
@@ -232,8 +232,7 @@ Bluff 4, Diplomacy 5, Disable Device 5, Escape Artist 2, Knowledge (Arcana) 1, K
 - **Fast Stealth** (level 6) — move at full speed using Stealth with no –5 penalty
 
 ### Feats
-- **Extra Performance** (level 4, confirmed) — Robert approved replacing Weapon Finesse
-- ⚠️ Level 5 general feat still not recorded in FGU — needs resolution
+- **Accomplished Sneak Attacker** (level 5) — +1d6 sneak attack. Source: Dirty Tactics Toolbox. Qualifies: sneak 1d6 ≤ ½ level 5 (= 2) ✓. Total sneak: +2d6.
 
 ### Skills (48 total ranks confirmed from FGU screenshot)
 Acrobatics 1, Bluff 4, Diplomacy 5, Disable Device 6, Escape Artist 2→3 (then adjusted), Knowledge (Arcana) 2, Knowledge (Dungeoneering) 1, Knowledge (Geography) 1, Knowledge (History) 1, Knowledge (Local) 1, Knowledge (Nature) 1, Knowledge (Planes) 1, Knowledge (Religion) 2, Perception 6, Perform (Oratory) 4, Spellcraft 4, Stealth 6
@@ -257,7 +256,7 @@ Acrobatics 1, Bluff 4, Diplomacy 5, Disable Device 6, Escape Artist 2→3 (then 
 
 ---
 
-## Level 7 — Current
+## Level 7 — 
 
 ### Stats Changes
 - HP: 50 (44 + 4 roll + 2 Con)
@@ -272,7 +271,7 @@ Acrobatics 1, Bluff 4, Diplomacy 5, Disable Device 6, Escape Artist 2→3 (then 
 - Bardic Knowledge: +3 (½ level, unchanged)
 
 ### Feats
-- **Accomplished Sneak Attacker** (level 7 feat) — +1d6 sneak attack. Source: Dirty Tactics Toolbox. Can be taken again as long as sneak attack dice ≤ ½ character level (confirm with Robert).
+- **Improved Initiative** (level 7 feat) — +4 Initiative. Total Initiative: +9 (+3 Dex + 2 Excitable + 4 Improved Initiative).
 
 ### Skills (56 total ranks confirmed from FGU screenshots)
 Acrobatics 1, Bluff 5, Diplomacy 5, Disable Device 6, Escape Artist 4, Knowledge (Arcana) 3, Knowledge (Dungeoneering) 1, Knowledge (Geography) 1, Knowledge (History) 1, Knowledge (Local) 1, Knowledge (Nature) 1, Knowledge (Planes) 1, Knowledge (Religion) 3, Perception 6, Perform (Oratory) 5, Sense Motive 1, Spellcraft 5, Stealth 6
@@ -293,4 +292,55 @@ Acrobatics 1, Bluff 5, Diplomacy 5, Disable Device 6, Escape Artist 4, Knowledge
 
 ---
 
-*History document current as of Level 7. GM: Robert Wilhelm. Campaign: Rise of the Runelords.*
+## Level 8 — Current
+
+### Stats Changes
+- HP: 60 (50 + 8 roll + 2 Con)
+- BAB: +6/+1, CMB: +2, CMD: 16 — iterative attack applies to rapier full attack only; Piercing Crescendo is a standard action and does not gain the second attack
+- Fort +9 / Ref +13 / Will +10 (all base saves +1 at L8; totals include items)
+- Speed: 30 ft.
+- Bardic Performance: **32 rounds/day** (+1 FCB; +8 Cha mod)
+- Piercing Crescendo range: **40 ft.** (class feature at 8th level)
+- Piercing Crescendo DC: **22** (10 + 4 + 8 Cha)
+- Piercing Crescendo sonic: **+4** (½ level 8)
+- Sneak Attack: +3d6 (unchanged)
+- Bardic Knowledge: **+4** (½ level 8)
+
+### Ability Score Increases (L4 + L8 both applied here)
+- L4 ASI (missed, applied retroactively): Cha base 20 → 21
+- L8 ASI: Cha base 21 → **22**
+- Final Cha: 20 (array+racial base in FGU) + 2 (two ASIs) + 4 (Eye Powder perm) = **26**, modifier **+8**
+
+### New Class Features
+- **Silent Refrain (Su)** — Standard action. Silences up to Cha mod (7) targets within 60 ft., each making Will DC 21. On fail: silenced (5-ft. radius emanation centered on creature) for performance duration + 7 rounds after stopping. Targeting self: cast spells as if Silent Spell while active. Replaces Dirge of Doom.
+
+### Skills (64 total ranks; +8 new at L8)
+Added ranks: Bluff +1 (→6), Diplomacy +1 (→6), Disable Device +1 (→7), Perform (Oratory) +1 (→6), Knowledge (Engineering) +1 (→1, CS bonus now active), Use Magic Device +1 (→1, CS bonus now active), Spellcraft +1 (→6), Stealth +1 (→7)
+
+Full rank list: Acrobatics 1, Bluff 6, Diplomacy 6, Disable Device 7, Escape Artist 4, Knowledge (Arcana) 3, Knowledge (Dungeoneering) 1, Knowledge (Engineering) 1, Knowledge (Geography) 1, Knowledge (History) 1, Knowledge (Local) 1, Knowledge (Nature) 1, Use Magic Device 1, Knowledge (Planes) 1, Knowledge (Religion) 3, Perception 6, Perform (Oratory) 6, Sense Motive 1, Spellcraft 6, Stealth 7
+
+### Spells Known Added
+- 3rd level: **Invisibility Sphere** (3rd pick — 10-ft. radius invisibility around caster; breaks if anyone in sphere attacks)
+
+### Spells Known (6/5/4/3 per Robert)
+- 0 (6): Detect Magic, Flare, Mage Hand, Mending, Message, Read Magic
+- 1st (5): Coin Shot, Cure Light Wounds, Feather Fall, Jitterbugs, Summon Monster I*
+- 2nd (4): Glitterdust, Heroism, Invisibility, Mirror Image
+- 3rd (3): Dispel Magic, Good Hope, Invisibility Sphere
+
+*Confirm Summon Monster I — intentional or FGU auto-population?
+
+### Planned: Level 9
+- **Accomplished Sneak Attacker** (2nd pick) — +1d6 sneak attack. At L9: sneak 3d6 ≤ ½ level 9 (= 4) ✓.
+
+### Open Items (FGU Updates Needed)
+- FGU BP rounds — should be 32; update Extra Performance count in FGU
+- FGU ASI — Two ASIs (L4 + L8) both to Cha: base 20 → 22 in FGU (score will show 26 with Eye Powder perm); modifier now +8
+- FGU Initiative — update to +9 (Improved Initiative +4 not yet entered)
+- FGU feats — enter L5 Accomplished Sneak Attacker and L7 Improved Initiative
+- Piercing Crescendo DC in FGU — should be 22; update in FGU
+- Will save extra +2 source still unconfirmed — check with Robert
+
+---
+
+*History document current as of Level 8. GM: Robert Wilhelm. Campaign: Rise of the Runelords.*
