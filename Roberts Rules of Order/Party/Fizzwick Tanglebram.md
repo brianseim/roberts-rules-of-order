@@ -313,7 +313,7 @@ _(Robert Wilhelm ruling)_
 
 Standard action. Ranged touch attack, **40 ft.** (extended at L8), no AoO. Deals 1d4 piercing + **4** sonic (½ level 8). Ignores hardness and DR. Note is inaudible to all but the target. Fort or Will save DC **22** (10 + 4 + 8 Cha) or dazed 1 round. Supernatural ability, not subject to spell resistance.
 
-**Sneak Attack:** Free whenever Fitz naturally qualifies. Costs +1 BP round to force when he would not.
+**Sneak Attack:** Limited to 30 ft. Free whenever Fitz naturally qualifies. Costs +1 BP round to force when he would not.
 
 Range increases to 50 ft. at 15th level.
 
