@@ -48,21 +48,22 @@ _L4 ASI (applied retroactively) + L8 ASI: Charisma base 20 → 22. Eye Powder pe
 | **AC**          | 18     | 10 + 4 mithral chain + 3 Dex + 1 size                                                                                               |
 | **Touch AC**    | 14     | 10 + 3 Dex + 1 size                                                                                                                 |
 | **Flat-Footed** | 15     | 10 + 4 armor + 1 size                                                                                                               |
-| **Initiative**  | +9     | +3 Dex + 2 Excitable + 4 Improved Initiative                                                                                       |
+| **Initiative**  | +9     | +3 Dex + 2 Excitable + 4 Improved Initiative                                                                                        |
 | **Speed**       | 30 ft. | Boots of Striding and Springing                                                                                                     |
 | **BAB**         | +6/+1  | Level 8 — iterative applies to rapier full attack only; Piercing Crescendo is a standard action and does not gain the second attack |
 | **CMB**         | +2     | 6 + (–3 Str) + (–1 size)                                                                                                            |
-| **CMD**         | 16     | 10 + 6 + (–3 Str) + (–1 size) + 3 Dex                                                                                               |
+| **CMD**         | 15     | 10 + 6 + (–3 Str) + (–1 size) + 3 Dex                                                                                               |
 
 ### Saving Throws
 
 | Save          | Total | Formula                                    |
 | ------------- | ----- | ------------------------------------------ |
-| **Fortitude** | +9    | 2 base + 2 Con + 3 Cloak                   |
-| **Reflex**    | +12   | 6 base + 3 Dex + 3 Cloak                   |
-| **Will**      | +7    | 6 base + (–2 Wis) + 3 Cloak {+2 illusions} |
+| **Fortitude** | +8    | 2 base + 2 Con + 4 Cloak                   |
+| **Reflex**    | +13   | 6 base + 3 Dex + 4 Cloak                   |
+| **Will**      | +8    | 6 base + (–2 Wis) + 4 Cloak {+2 illusions} |
 
-> **Note:** Gnome +2 vs. illusions (illusion effects only). Gnome +4 vs. fear. Well-Versed +4 applies only vs. bardic performance, sonic, and language-dependent effects.
+> **Note:** Gnome +2 vs. illusions (illusion effects only). Gnome +4 vs. fear. 
+> Well-Versed +4 applies only vs. bardic performance, sonic, and language-dependent effects.
 
 ---
 
@@ -201,14 +202,14 @@ _Bardic Knowledge: +4 (½ level 8) to all Knowledge checks, may attempt untraine
 |Feature|Notes|
 |---|---|
 |**Bardic Knowledge +4**|½ level to all Knowledge checks; untrained OK|
-|**Bardic Performance 31/day**|See above|
+|**Bardic Performance 32/day**|See above|
 |**Sneak Attack +3d6**|See above|
 |**Cantrips**|At will|
 |**Well-Versed**|+4 saves vs. bardic performance, sonic, language-dependent effects|
 |**Inspire Competence +3**|+3 competence to ally skill check within 30 ft.|
 |**Lore Master 1/day**|Take 10 on any Knowledge; 1/day take 20|
 |**Shrouded Step**|Greater Invisibility via bardic performance (gained L6)|
-|**Silent Refrain**|Silence up to 7 targets within 60 ft. via performance (gained L8)|
+|**Silent Refrain**|Silence up to 8 targets within 60 ft. via performance (gained L8)|
 
 ---
 
@@ -241,7 +242,7 @@ _Bardic Knowledge: +4 (½ level 8) to all Knowledge checks, may attempt untraine
 | Headband of Alluring Charisma +2 | 3,600 gp  | 1 lb.  | +2 Cha (10% discount applied)                            |
 | 7-sided Star Medallion           | —         | —      | Neck; +1 all saves (non-stacking); Desna's symbol        |
 | Boots of Striding and Springing  | 5,500 gp  | 1 lb.  | Speed 30 ft.; +5 Acrobatics (jump only)                  |
-| Hat of Disguise                  | 1,800 gp  | —      | Alter self at will                                       |
+| Hat of Disguise                  | 1,800 gp  | —      | Disguise self at will                                    |
 | Handy Haversack                  | 2,000 gp  | 5 lb.  | Center pouch 80 lb.                                      |
 | Rapier                           | 20 gp     | 2 lb.  | 1d6 piercing, 18-20/×2; Weapon Finesse (Dex to hit)      |
 | Scarf, bladed                    | 12 gp     | 2 lb.  | 1d4 slashing, 19-20/×2, reach; appears as Varisian scarf |
