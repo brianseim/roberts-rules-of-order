@@ -75,7 +75,7 @@ Bluff 1, Diplomacy 1, Disable Device 1, Knowledge (Local) 1, Perception 1, Perfo
 - AC: 18 → Masterwork Studded Leather purchased (later upgraded)
 - BAB: +1, CMB: –3, CMD: 11
 - Fort +2 / Ref +6 / Will +4 (base saves improved)
-- Bardic Performance: 17 rounds/day (+1 FCB)
+- Bardic Performance: 19 rounds/day (4 + 5 Cha + 2 [+2/level] + 6 Extra Performance + 2 FCB)
 
 ### New Class Features
 - **Spellsong** (class bonus feat) — conceal casting / maintain concentration via performance
@@ -116,8 +116,11 @@ Dropped from level 1: Sleight of Hand (moved elsewhere)
 - BAB: +2, CMB: –2, CMD: 12
 - Fort +3 / Ref +6 / Will +4
 - Speed: 20 ft.
-- Bardic Performance: 18 rounds/day (+1 FCB)
+- Bardic Performance: 28 rounds/day (4 + 5 Cha + 4 [+2/level] + 12 Extra Performance ×2 + 3 FCB)
 - Piercing Crescendo sonic damage: +1 (½ level 3, rounds down)
+
+### Feats
+- **Extra Performance** (2nd pick) — +6 more BP rounds/day. Credited at level 3 in FGU; see the Level 4 note for the Weapon Finesse swap Robert approved.
 
 ### New Class Features
 - **Inspire Competence +2** — ally within 30 ft. gets +2 competence on skill check
@@ -146,7 +149,7 @@ Added: Bluff +1, Diplomacy +1, Disable Device +1, Knowledge (Arcana) 1, Knowledg
 ### Stats Changes
 - HP: confirmed in level 5/6 exports
 - BAB: +3, CMB: –1, CMD: 13
-- Bardic Performance: +1 FCB
+- Bardic Performance: 31 rounds/day (4 + 5 Cha + 6 [+2/level] + 12 Extra Performance ×2 + 4 FCB)
 
 ### Feats
 - **Extra Performance** (level 3 feat, retroactively placed here) — second pick, +6 more BP rounds/day
@@ -174,8 +177,8 @@ Details partially reconstructed — see level 5 for confirmed state.
 - Fort +5 / Ref +9 / Will +6 (FGU totals — medallion +1 included; extra +2 Will source TBD)
 - Initiative: +5
 - Speed: 20 ft.
-- Bardic Performance: 21 rounds/day (4 + 6 Cha + 12 feats + 5 FCB)
-- Piercing Crescendo DC: 17 (10 + 2 + 5 Cha — Cha was 20 before eye powder)
+- Bardic Performance: 35 rounds/day (4 + 6 Cha + 8 [+2/level] + 12 feats + 5 FCB)
+- Piercing Crescendo DC: 17 before the eye powder (10 + 2 + 5 Cha), **18 after** (10 + 2 + 6 Cha)
 - Piercing Crescendo sonic: +2 (½ level 5, rounds down)
 - Sneak Attack: +2d6
 - Bardic Knowledge: +2 (½ level)
@@ -183,7 +186,7 @@ Details partially reconstructed — see level 5 for confirmed state.
 
 ### Eye Powder Event
 - Magic item permanently transferred 2 Wis points to Cha
-- Wis: 8 → **6** (mod –1 → **–3**)
+- Wis: 8 → **6** (mod –1 → **–2**) — Wis 6 is –2, not –3
 - Cha: 20 → **22** (mod +5 → **+6**)
 - Cascading effects: Will save dropped, all Cha-based skills improved, Diversion/Piercing DC improved, BP rounds increased
 
@@ -219,10 +222,10 @@ Bluff 4, Diplomacy 5, Disable Device 5, Escape Artist 2, Knowledge (Arcana) 1, K
 - BAB: +4, CMB: 0, CMD: 14
 - Fort +5 / Ref +9 / Will +6 (FGU confirmed)
 - Speed: 30 ft. (Boots of Striding and Springing purchased)
-- Bardic Performance: 22 rounds/day (+1 FCB; FGU showing 27 — likely undercounting Extra Performance)
-- Piercing Crescendo DC: 18 (10 + 3 + 6 Cha)
+- Bardic Performance: 38 rounds/day (4 + 6 Cha + 10 [+2/level] + 12 feats + 6 FCB). FGU showed 27: it applies the class progression but neither the feats nor the FCB.
+- Piercing Crescendo DC: **19** (10 + 3 + 6 Cha)
 - Piercing Crescendo sonic: +3 (½ level 6)
-- Sneak Attack: +2d6
+- Sneak Attack: **+3d6** (base 2d6 from 5th + 1d6 Accomplished Sneak Attacker)
 - Bardic Knowledge: +3 (½ level)
 
 ### New Class Features
@@ -232,7 +235,7 @@ Bluff 4, Diplomacy 5, Disable Device 5, Escape Artist 2, Knowledge (Arcana) 1, K
 - **Fast Stealth** (level 6) — move at full speed using Stealth with no –5 penalty
 
 ### Feats
-- **Accomplished Sneak Attacker** (level 5) — +1d6 sneak attack. Source: Dirty Tactics Toolbox. Qualifies: sneak 1d6 ≤ ½ level 5 (= 2) ✓. Total sneak: +2d6.
+- **Accomplished Sneak Attacker** (level 5) — +1d6 sneak attack. Source: Dirty Tactics Toolbox, p. 10. Base sneak reaches 2d6 at 5th; the feat brings it to **3d6**. Cap is half character level rounded up (½ × 5 = 3) ✓.
 
 ### Skills (48 total ranks confirmed from FGU screenshot)
 Acrobatics 1, Bluff 4, Diplomacy 5, Disable Device 6, Escape Artist 2→3 (then adjusted), Knowledge (Arcana) 2, Knowledge (Dungeoneering) 1, Knowledge (Geography) 1, Knowledge (History) 1, Knowledge (Local) 1, Knowledge (Nature) 1, Knowledge (Planes) 1, Knowledge (Religion) 2, Perception 6, Perform (Oratory) 4, Spellcraft 4, Stealth 6
@@ -261,12 +264,13 @@ Acrobatics 1, Bluff 4, Diplomacy 5, Disable Device 6, Escape Artist 2→3 (then 
 ### Stats Changes
 - HP: 50 (44 + 4 roll + 2 Con)
 - BAB: +5, CMB: +1, CMD: 15
-- Fort +5 / Ref +9 / Will +6 (saves unchanged from level 6)
+- Fort +5 / Ref +9 / Will +4 at start of level (medallion +1 only); **Fort +8 / Ref +12 / Will +7** after mid-level purchases (Cloak of Resistance +4 supersedes the medallion)
+- _FGU showed Will +6 then +9 — an unexplained +2 that was gone by the L8 export._
 - Speed: 30 ft.
-- Bardic Performance: 29 rounds/day (4 + 6 Cha + 12 feats + 7 FCB)
-- Piercing Crescendo DC: 18 (unchanged — ½ of 7 = 3, same as level 6)
+- Bardic Performance: 41 rounds/day at start (4 + 6 Cha + 12 [+2/level] + 12 feats + 7 FCB); **42** once the headband raised Cha to 24
+- Piercing Crescendo DC: **19** at start (10 + 3 + 6 Cha), **20** after the headband (10 + 3 + 7 Cha)
 - Piercing Crescendo sonic: +3 (½ level 7 = 3, unchanged)
-- Sneak Attack: **+3d6** (Accomplished Sneak Attacker added +1d6)
+- Sneak Attack: **+3d6** (unchanged — base 2d6 since 5th, +1d6 from the feat taken at 5th)
 - Inspire Competence: **+3** (up from +2)
 - Bardic Knowledge: +3 (½ level, unchanged)
 
@@ -276,6 +280,11 @@ Acrobatics 1, Bluff 4, Diplomacy 5, Disable Device 6, Escape Artist 2→3 (then 
 ### Skills (56 total ranks confirmed from FGU screenshots)
 Acrobatics 1, Bluff 5, Diplomacy 5, Disable Device 6, Escape Artist 4, Knowledge (Arcana) 3, Knowledge (Dungeoneering) 1, Knowledge (Geography) 1, Knowledge (History) 1, Knowledge (Local) 1, Knowledge (Nature) 1, Knowledge (Planes) 1, Knowledge (Religion) 3, Perception 6, Perform (Oratory) 5, Sense Motive 1, Spellcraft 5, Stealth 6
 
+### Equipment Changes (mid-level purchases)
+- **Cloak of Resistance +4** (14,400 gp) — +4 all saves; supersedes the medallion's +1
+- **Headband of Alluring Charisma +2** (3,600 gp) — Cha 22 → 24, modifier +6 → +7
+- Both confirmed in `FizzwickTanglebramLevel7-newPurchases.xml`
+
 ### Spells Known (6/5/4/2 per Robert)
 - 0 (6): Detect Magic, Flare, Mage Hand, Mending, Message, Read Magic
 - 1st (5): Coin Shot, Cure Light Wounds, Feather Fall, Jitterbugs, Summon Monster I*
@@ -284,22 +293,23 @@ Acrobatics 1, Bluff 5, Diplomacy 5, Disable Device 6, Escape Artist 4, Knowledge
 
 *Confirm Summon Monster I — intentional or FGU auto-population?
 
-### Open Items
-- FGU showing 27 BP rounds — should be 29. Fix Extra Performance count in FGU.
-- Level 5 general feat still unresolved in FGU.
-- Will save extra +2 source — confirm with Robert.
-- Summon Monster I confirmation.
+### Open Items (resolved since)
+- ✅ Level 5 feat — Accomplished Sneak Attacker, now entered in FGU.
+- ✅ Will save extra +2 — gone as of the L8 export; saves are cloak-only.
+- ✅ Summon Monster I — confirmed intentional.
+- BP rounds at this level are **42**, not 29 (see Level 8 for the full formula).
 
 ---
 
 ## Level 8 — Current
 
 ### Stats Changes
-- HP: 60 (50 + 8 roll + 2 Con)
-- BAB: +6/+1, CMB: +2, CMD: 16 — iterative attack applies to rapier full attack only; Piercing Crescendo is a standard action and does not gain the second attack
-- Fort +9 / Ref +13 / Will +10 (all base saves +1 at L8; totals include items)
+- HP: 60 (50 + 8 roll + 2 Con) — ⚠️ **FGU shows 57.** The L7 export confirms 50, so the L8 roll is the open question.
+- BAB: +6/+1, CMB: +2, CMD: **15** (10 + 6 BAB – 3 Str – 1 size + 3 Dex) — iterative attack applies to rapier full attack only; Piercing Crescendo is a standard action and does not gain the second attack
+- **Fort +8 / Ref +13 / Will +8** (base 2/6/6 + 2 Con / 3 Dex / –2 Wis + 4 Cloak)
+- _Reflex and Will base rise by 1 at L8; **Fortitude is a poor save and does not** (floor(8/3) = 2, same as 7th)._
 - Speed: 30 ft.
-- Bardic Performance: **32 rounds/day** (+1 FCB; +8 Cha mod)
+- Bardic Performance: **46 rounds/day** — 4 base + 8 Cha + 14 (+2/level, levels 2–8) + 12 (Extra Performance ×2) + 8 FCB
 - Piercing Crescendo range: **40 ft.** (class feature at 8th level)
 - Piercing Crescendo DC: **22** (10 + 4 + 8 Cha)
 - Piercing Crescendo sonic: **+4** (½ level 8)
@@ -309,10 +319,10 @@ Acrobatics 1, Bluff 5, Diplomacy 5, Disable Device 6, Escape Artist 4, Knowledge
 ### Ability Score Increases (L4 + L8 both applied here)
 - L4 ASI (missed, applied retroactively): Cha base 20 → 21
 - L8 ASI: Cha base 21 → **22**
-- Final Cha: 20 (array+racial base in FGU) + 2 (two ASIs) + 4 (Eye Powder perm) = **26**, modifier **+8**
+- Final Cha: 20 (array+racial base) + 2 (two ASIs) = base **22**, + 4 perm (Eye Powder +2 **and** Headband of Alluring Charisma +2) = **26**, modifier **+8**
 
 ### New Class Features
-- **Silent Refrain (Su)** — Standard action. Silences up to Cha mod (7) targets within 60 ft., each making Will DC 21. On fail: silenced (5-ft. radius emanation centered on creature) for performance duration + 7 rounds after stopping. Targeting self: cast spells as if Silent Spell while active. Replaces Dirge of Doom.
+- **Silent Refrain (Su)** — Standard action. Silences up to Cha mod (**8**) targets within 60 ft., each making Will **DC 22**. On fail: silenced (5-ft. radius emanation centered on creature) for performance duration + **8** rounds after stopping. Targeting self: cast spells as if Silent Spell while active. Replaces Dirge of Doom.
 
 ### Skills (64 total ranks; +8 new at L8)
 Added ranks: Bluff +1 (→6), Diplomacy +1 (→6), Disable Device +1 (→7), Perform (Oratory) +1 (→6), Knowledge (Engineering) +1 (→1, CS bonus now active), Use Magic Device +1 (→1, CS bonus now active), Spellcraft +1 (→6), Stealth +1 (→7)
@@ -331,16 +341,19 @@ Full rank list: Acrobatics 1, Bluff 6, Diplomacy 6, Disable Device 7, Escape Art
 *Confirm Summon Monster I — intentional or FGU auto-population?
 
 ### Planned: Level 9
-- **Accomplished Sneak Attacker** (2nd pick) — +1d6 sneak attack. At L9: sneak 3d6 ≤ ½ level 9 (= 4) ✓.
+- ⚠️ **Accomplished Sneak Attacker cannot be taken twice.** It has no “may be taken multiple times” clause, and PF1e allows repeat feats only when the feat says so.
+- Sneak attack reaches **4d6** at L9 regardless: base rises to 3d6 (1d6 at 1st, +1d6 every four levels → 1st/5th/9th) plus the one Accomplished Sneak Attacker. Cap is ½ × 9 rounded up = **5** ✓.
+- The L9 feat slot is therefore free. **Weapon Finesse** is the strongest candidate: the rapier goes from +4/–1 to +10/+5, which makes 4d6 sneak attack deliverable in melee.
 
-### Open Items (FGU Updates Needed)
-- FGU BP rounds — should be 32; update Extra Performance count in FGU
-- FGU ASI — Two ASIs (L4 + L8) both to Cha: base 20 → 22 in FGU (score will show 26 with Eye Powder perm); modifier now +8
-- FGU Initiative — update to +9 (Improved Initiative +4 not yet entered)
-- FGU feats — enter L5 Accomplished Sneak Attacker and L7 Improved Initiative
-- Piercing Crescendo DC in FGU — should be 22; update in FGU
-- Will save extra +2 source still unconfirmed — check with Robert
+### Open Items
+_Full current list lives in [[Fizzwick Tanglebram]] under Open Items / Confirm with Robert._
+
+- ⚠️ **HP** — FGU 57 vs 60 here. Needs the L8 roll confirmed.
+- ⚠️ **Bardic performance 46/day** — confirm the +2/level line with Robert.
+- ⚠️ **Piercing Crescendo in FGU** still carries the stock class text (30 ft., no DC) — source of the DC 17.
+- ✅ ASI, Initiative, feats, speed, skills and spells are all entered correctly in the L8 export.
 
 ---
 
 *History document current as of Level 8. GM: Robert Wilhelm. Campaign: Rise of the Runelords.*
+*Levels 2–8 bardic performance recalculated — the +2/level line had been omitted throughout.*

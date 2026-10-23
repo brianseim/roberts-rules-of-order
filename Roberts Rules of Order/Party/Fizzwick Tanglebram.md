@@ -100,7 +100,7 @@ _Bardic Knowledge: +4 (½ level 8) to all Knowledge checks, may attempt untraine
 
 ## Bardic Performance
 
-**32 rounds/day** — 4 base + 8 Cha + 12 (Extra Performance ×2) + 8 FCB
+**46 rounds/day** — 4 base + 8 Cha + 14 (+2/level, levels 2–8) + 12 (Extra Performance ×2) + 8 FCB
 
 |Performance|Description|
 |---|---|
@@ -115,8 +115,18 @@ _Bardic Knowledge: +4 (½ level 8) to all Knowledge checks, may attempt untraine
 
 **+3d6** (1d6 base + 1d6 at L5 + 1d6 Accomplished Sneak Attacker)
 
-- **Free** with Piercing Crescendo when target is flat-footed, invisible, after successful Diversion, etc.
+**With weapons** — normal rogue sneak attack. Applies to the rapier, bladed scarf, Coin Shot, any attack, whenever the target is denied its Dex bonus or Fitz is flanking. **No bardic performance cost, ever.** Ranged attacks qualify only within 30 ft.
+
+**With Piercing Crescendo** — the class adds an extension so the ability itself can carry sneak attack:
+
+- **Free** when target is flat-footed, invisible, after successful Diversion, etc. _(Robert's ruling)_
 - **+1 BP round** to apply when not naturally qualifying — no check or save needed.
+
+> Class text: _"This is exactly like the rogue ability of the same name, **but** the songfilch can apply his sneak attack damage to his piercing crescendo..."_ The clause **adds** Piercing Crescendo — it does not restrict sneak attack to it.
+>
+> **Not multiplied on a critical hit.** Precision damage never is: _"Should the rogue score a critical hit with a sneak attack, this extra damage is not multiplied."_
+>
+> **No effect on** creatures immune to critical hits — undead, constructs, oozes, elementals, plants.
 
 ---
 
@@ -124,7 +134,9 @@ _Bardic Knowledge: +4 (½ level 8) to all Knowledge checks, may attempt untraine
 
 **Spell Save DC** = 10 + spell level + 8 (Cha mod)
 
-**Spell Slots:** 5/4/3/2 per day (Robert's full bard table, L8 base + Cha bonus)
+**Spells Known:** 6 / 5 / 4 / 3 (cantrips / 1st / 2nd / 3rd) — Robert's full bard table.
+
+**Slots per day:** 1st **6** · 2nd **6** · 3rd **4** (L8 base 4/4/2 + 2 bonus at each level from Cha 26). Cantrips at will.
 
 ### Cantrips (6 known — at will)
 
@@ -202,7 +214,7 @@ _Bardic Knowledge: +4 (½ level 8) to all Knowledge checks, may attempt untraine
 |Feature|Notes|
 |---|---|
 |**Bardic Knowledge +4**|½ level to all Knowledge checks; untrained OK|
-|**Bardic Performance 32/day**|See above|
+|**Bardic Performance 46/day**|See above|
 |**Sneak Attack +3d6**|See above|
 |**Cantrips**|At will|
 |**Well-Versed**|+4 saves vs. bardic performance, sonic, language-dependent effects|
@@ -237,15 +249,15 @@ _Bardic Knowledge: +4 (½ level 8) to all Knowledge checks, may attempt untraine
 
 | Item                             | Cost      | Weight | Notes                                                    |
 | -------------------------------- | --------- | ------ | -------------------------------------------------------- |
-| Mithral Chain Shirt              | 1,100 gp  | 10 lb. | Light, +4 AC, max Dex +6, 0% spell fail                  |
+| Mithral Chain Shirt              | 1,100 gp  | 6.25 lb. | Light, +4 AC, max Dex +6, 0% spell fail |
 | Cloak of Resistance +4           | 14,400 gp | 1 lb.  | +4 all saves (10% discount applied)                      |
 | Headband of Alluring Charisma +2 | 3,600 gp  | 1 lb.  | +2 Cha (10% discount applied)                            |
 | 7-sided Star Medallion           | —         | —      | Neck; +1 all saves (non-stacking); Desna's symbol        |
 | Boots of Striding and Springing  | 5,500 gp  | 1 lb.  | Speed 30 ft.; +5 Acrobatics (jump only)                  |
 | Hat of Disguise                  | 1,800 gp  | —      | Disguise self at will                                    |
 | Handy Haversack                  | 2,000 gp  | 5 lb.  | Center pouch 80 lb.                                      |
-| Rapier                           | 20 gp     | 2 lb.  | 1d6 piercing, 18-20/×2; Weapon Finesse (Dex to hit)      |
-| Scarf, bladed                    | 12 gp     | 2 lb.  | 1d4 slashing, 19-20/×2, reach; appears as Varisian scarf |
+| Rapier                           | 20 gp     | 1 lb.  | 1d4 piercing (Small), 18–20/×2. **Strength-based:** +4/−1 to hit, 1d4−3 |
+| Scarf, bladed                    | 12 gp     | 1 lb.  | 1d4 slashing, 19–20/×2, reach. No proficiency: −4 to hit |
 | Masterwork Thieves' Tools        | 100 gp    | 2 lb.  | +2 Disable Device                                        |
 | Masterwork Flute                 | —         | 1 lb.  | From Glassworks                                          |
 
@@ -275,6 +287,7 @@ _Bardic Knowledge: +4 (½ level 8) to all Knowledge checks, may attempt untraine
 |Ripnugget's Keyring|Story item|
 |Chieftain Key|Story item|
 |Masterwork Manacles ×2|Loot|
+|**The Jar**|Sealed glass jar holding an unidentified preserved aquatic creature. Too many limbs. Faintly luminescent. Carried in the belt pouch. Nobody knows what it is.|
 
 ### Coin
 
@@ -319,17 +332,66 @@ Range increases to 50 ft. at 15th level.
 
 ---
 
+## Bardic Performance Rounds — Calculation
+
+**46 rounds/day at level 8.**
+
+| Source | Rounds |
+| --- | --- |
+| Bard base | 4 |
+| Charisma 26 (+8 mod) | +8 |
+| **+2 per level after 1st** — levels 2–8 = 7 levels | **+14** |
+| _Class subtotal_ | _26_ |
+| Extra Performance (L1) | +6 |
+| Extra Performance (L3) | +6 |
+| Gnome FCB, +1/level × 8 levels | +8 |
+| **Total** | **46** |
+
+> **The +2/level line is the one that gets missed.** Core bard text: _"He can use this ability for a number of rounds per day equal to 4 + his Charisma modifier. At each level after 1st a bard can use bardic performance for 2 additional rounds per day."_ This is also the text FGU itself ships in Fitz's Bardic Performance entry.
+
+**Sanity check:** without the +2/level line, a 20th-level bard with Cha 20 would have 9 rounds per day for his entire career. Bardic performance is built to scale, and that line is the only thing that scales it.
+
+**Why Fitz's number is high:** 20 of the 46 rounds come from build choices — two Extra Performance feats (+12) and a favored class bonus spent on performance rounds every single level (+8). A plain 8th-level bard with Cha 26 has 26.
+
+**What FGU shows:** 27. FGU is computing the class progression correctly and applying neither the feats nor the FCB.
+
+### What costs rounds
+
+| Use | Cost |
+| --- | --- |
+| Diversion, Obfuscate, Shrouded Step, Silent Refrain, Inspire Competence | 1 round per round maintained |
+| Piercing Crescendo | 1 round (standard action) |
+| Piercing Crescendo + sneak attack when Fitz already qualifies | Free (Robert's ruling) |
+| Piercing Crescendo + sneak attack when he does _not_ qualify | +1 additional round |
+| Spellsong (conceal casting, or maintain concentration) | 1 round |
+| **Sneak attack with a weapon** | **No cost — ever** |
+
+---
+
 ## Open Items / Confirm with Robert
 
-- ⚠️ **Will save extra +2 source** — FGU shows higher Will than formula explains (illusion)
-- ⚠️ **Summon Monster I** — intentional or FGU auto-populated? intentional
-- ⚠️ **FGU feats** — Enter L5 Accomplished Sneak Attacker and L7 Improved Initiative in FGU
-- ⚠️ **FGU BP rounds** — FGU shows 27, should be 32; fix Extra Performance count in FGU
-- ⚠️ **FGU speed** — still showing 20 ft.; boots not applied in FGU
-- ⚠️ **FGU sneak attack label** — shows +2d6, should be +3d6
-- ⚠️ **FGU Initiative** — update to +9 (add Improved Initiative +4)
-- ⚠️ **Piercing Crescendo DC in FGU** — shows 17, should be 22 (10 + 4 + 8 Cha)
-- ⚠️ **FGU ASI** — Two missed ASIs (L4 + L8) both applied to Cha: base 20 → 22 (total 26 with Eye Powder perm); modifier now +8. Update FGU.
+_Verified against `FizzwickTanglebramLevel8Start.xml` (22 Oct 2026)._
+
+### Ask Robert
+
+- ⚠️ **Bardic performance = 46 rounds/day** — confirm the +2/level line. Roughly doubles how long Shrouded Step can stay up.
+- ⚠️ **Shrouded Step + Piercing Crescendo coexistence** — never ruled. Does spending BP on Piercing Crescendo interrupt Shrouded Step, which is itself a sustained performance? PF1e RAW allows only one performance at a time. Lingering Performance (2 rounds) partly covers the gap if they can't coexist.
+- ⚠️ **7-sided star medallion** — +1 to all saves is currently not applying anywhere, correctly superseded by Cloak of Resistance +4 _if_ it's a resistance bonus. If Robert meant it as a different or unnamed bonus, every save is +1 low.
+
+### Fix in FGU
+
+- ⚠️ **HP** — FGU 57, sheet 60, and FGU showed 55 at L7 (55 + 8 roll + 2 Con = 65). Three numbers, none reconcile. Needs the HP log.
+- ⚠️ **Sneak attack label** — shows +2d6, should be **+3d6**. Feat is entered; the label didn't follow.
+- ⚠️ **Piercing Crescendo** — still the stock class text (30 ft., no save DC, no Robert ruling). Source of the DC 17. Replace with the ruling text below: 40 ft., 1d4 + 4 sonic, Fort or Will DC 22, ignores hardness and DR.
+- ⚠️ **Spell slots per day** — FGU has 6/5/2 for levels 1–3; should be **6/6/4** (L8 base 4/4/2 + 2 bonus at each level from Cha 26). Spells known (6/5/4/3) are correct.
+- ⚠️ **Caster level** — export reads CL 7; should be 8.
+- ⚠️ **Spell set title** — still the L7 string (`Per Day: 4 3 1 ... known: 6 5 4 2`). Cosmetic.
+- ⚠️ **Stealth** — FGU +22 vs sheet +17. Misc is +9 (+4 size, +5 Cloak of Elvenkind), but Elvenkind is in the Haversack while Cloak of Resistance +4 occupies the shoulders slot. Only one can apply.
+- ⚠️ **Treasure block** — still holds 100 pp / 175 gp alongside the coin line items (282 gp / 12 pp / 17 sp). Zero it so the line items are the single source.
+- ⚠️ **Acrobatics** — boots' +5 not entered. Competence, **jump checks only**, so enter as a conditional effect rather than flat misc.
+- ⚠️ **Rapier** — damage reads d6; a Small rapier is **1d4**. Crit field blank → 18–20/×2. Attack stat (Strength) is correct.
+- ⚠️ **Bladed scarf** — no attack stat set.
+- ⚠️ **The Jar** — never entered in FGU in any export back to L5. Add to `Pouch, belt (empty)`.
 
 ---
 
